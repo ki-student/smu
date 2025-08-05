@@ -1,0 +1,2 @@
+0 Sit
+1 Stand

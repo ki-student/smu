@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['curl', 'none']
+
+roboflow:
+  workspace: ml-hldkp
+  project: biceps-dqtui
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ml-hldkp/biceps-dqtui/dataset/3
